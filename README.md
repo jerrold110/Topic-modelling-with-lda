@@ -1,6 +1,6 @@
 # Topic modelling with Latent Dirichlet allocation
 
-Using NLP techniques and LDA for topic modelling on the enron and newsgroup email dataset
+Using NLP preprocessing techniques and Latent Dirchelet Allocation for topic modelling on the enron and newsgroup email dataset
 
 ### Preprocessing on enron dataset
 * Removing escape characters, digits, punctuation
