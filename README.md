@@ -3,9 +3,10 @@
 Using NLP techniques and LDA for topic modelling on the enron and newsgroup email dataset
 
 ### Preprocessing on enron dataset
-* Word tokenisation
+* Removing escape characters, digits, punctuation
 * Convert to lower case and remove whitespaces
-* Remove digits, punctuation, and stopwords
+* Tokenise words for further preprocessing
+* Remove stopwords and special words
 * Lemmatisation
 * Stemming
 
